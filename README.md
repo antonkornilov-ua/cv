@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My CV Website
 
-## Getting Started
+Welcome to my CV website! This site is designed to showcase my professional profile and provide you with information about my skills, experience, and projects. It is built using a combination of cutting-edge technologies to ensure a smooth and engaging user experience.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- **React & Next.js**: The foundation of this website is built upon React and Next.js, allowing for efficient rendering and server-side rendering capabilities.
+- **TypeScript**: TypeScript is used to add static typing to JavaScript, making the codebase more maintainable and robust.
+- **Tailwind CSS**: Tailwind CSS is utilized for styling, enabling rapid development and a responsive design.
+- **Framer Motion**: Framer Motion is employed for smooth animations and transitions, enhancing the visual appeal of the site.
+- **React Email & Resend**: This feature allows you to easily get in touch with me via email and ensures that your message reaches me reliably.
+- **Vercel Hosting**: The website is hosted on Vercel, ensuring high availability and fast loading times.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Sections
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **About**: Learn more about me, my background, and my career objectives.
+- **Contact**: Easily get in touch with me via email.
+- **Experience**: Explore my work history and professional achievements.
+- **Projects**: View the projects I've worked on, along with details about each one.
+- **Skills**: Discover the skills and technologies I'm proficient in.
 
-## Learn More
+### Dark and Light Themes
 
-To learn more about Next.js, take a look at the following resources:
+This website offers both dark and light themes to cater to your preferred viewing experience. You can switch between themes using the theme toggle button, located in the top-right corner of the site.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+If you have any questions or feedback, please don't hesitate to get in touch with me via email at [anton.kornilovl@hotmail.com](mailto:anton.kornilovl@hotmail.com).
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for visiting my CV website, and I hope you find it informative and engaging!
