@@ -113,5 +113,6 @@ export const skillsData = [
     'Node.js',
     'Jest',
     'Leaflet',
-    'Three.js'
+    'Three.js',
+    'GraphQl'
 ] as const;
