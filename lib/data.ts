@@ -106,13 +106,13 @@ export const skillsData = [
     'TypeScript',
     'React',
     'Tailwind',
+    'Node.js',
+    'MongoDB',
     'Next.js',
     'Git',
     'Framer Motion',
-    'MongoDB',
-    'Node.js',
     'Jest',
     'Leaflet',
     'Three.js',
-    'GraphQl'
+    'GraphQl',
 ] as const;
