@@ -9,7 +9,7 @@ import { MdOutlinePointOfSale } from 'react-icons/md';
 import metaversus from '/public/metaversus.jpeg';
 import zaputopia from '/public/zaputopia.jpeg';
 import weatherapp from '/public/weatherapp.jpeg';
-import schoolsite from '/public/schoolsite.jpeg';
+import math from '/public/math.png';
 
 export const links = [
     {
@@ -91,11 +91,12 @@ export const projectsData = [
         link: 'https://antons-weather-v2.netlify.app/',
     },
     {
-        title: 'School Site',
-        description: 'This is my Pet project site for local school.',
-        tags: ['React', 'JavaScript', 'Tailwind', 'Leaflet'],
-        imageUrl: schoolsite,
-        link: 'https://school295.netlify.app/',
+        title: 'Matt app',
+        description:
+            'This is my Pet project for learning and practicing mathematics, focusing on the basic operations of multiplication and division',
+        tags: ['Next.js', 'Typescript', 'Tailwind'],
+        imageUrl: math,
+        link: 'https://mathapp-beta.vercel.app/',
     },
 ] as const;
 
