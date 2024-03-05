@@ -56,10 +56,10 @@ const Intro = () => {
                 initial={{ opacity: 0, y: 100 }}
                 animate={{ opacity: 1, y: 0 }}
                 className='mb-10 mt-4 text-2xl font-medium !leading-[1.5] sm:text-4xl'>
-                <span className='font-bold'>Hello, I&apos;m Anton, a frontend developer</span>. I continuously strive to
+                <span className='font-bold'>Hello, I&apos;m Anton, a full-stack developer</span>. I continuously strive to
                 learn and improve my skills and code. My core stack is{' '}
                 <span className='font-bold'>
-                    Html, Javascript, Typescript, <span className='underline'>React (Next.js)</span>, CSS and Tailwind
+                    Html, Javascript, Typescript, <span className='underline'>React (Next.js)</span>, CSS and Tailwind, Node.js
                 </span>
                 . Setting myself constant challenges, I persistently work towards achieving them successfully.
             </motion.h1>
